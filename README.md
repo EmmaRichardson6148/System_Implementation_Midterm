@@ -1,6 +1,8 @@
 # System_Implementation_Midterm
-Project report can be found in file 
-Visual elements are found in their respectively named files
-Data migration flow is in file 
-Test plan table can be found in 
+Project report can be found in file "Emma Salo - System Implementation Midterm Report"
+
+
+Visual elements are found in their respectively named files.
+
+
 A walkthrough of this project is located in 
