@@ -2,7 +2,7 @@
 Project report can be found in file "Emma Salo - System Implementation Midterm Report"
 
 
-Visual elements are found in their respectively named files.
+Visual elements and powerpoint are found in their respectively named files.
 
 
-A walkthrough of this project is located in 
+An audio walkthrough of this project has been uploaded along with this repository, as it is too large for GitHub.
